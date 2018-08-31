@@ -1,4 +1,4 @@
-﻿1. ⼀, ⼀ (yī) - det.: one
+1. ⼀, ⼀ (yī) - det.: one
 2. 在, 在 (zài) - in,at,on,etc.
 3. 有, 有 (yǒu) - have,possess
 4. 個, 个 (ge) - m.[general]
@@ -23,8 +23,7 @@
 23. 和, 和 (hé) - conj.: and
 24. 與, 与 (yǔ) - conj.: and,together with
 25. 以, 以 (yǐ) - using, taking, from a point on, because of
-26. 很, 很 (hěn) -
-pretty,thrice,monstrously,gey,quite,mighty,stinking,sopping,some,assai,full,most,clinking,much,thumping,awfully,fiendishly,thundering,very,real,really,bally,proper,grossly,powerful,so,rattling,well,considerably,greatly,terribly
+26. 很, 很 (hěn) - pretty,thrice,monstrously,gey,quite,mighty,stinking,sopping,some,assai,full,most,clinking,much,thumping,awfully,fiendishly,thundering,very,real,really,bally,proper,grossly,powerful,so,rattling,well,considerably,greatly,terribly
 27. 種, 种 (zhǒng) - m.[kind]
 28. 的, 的 (de) - particle: emphasizing an action/situation
 29. ⼤, ⼤ (dà) - great,macro,old,very,vast,tall,big,high,much
@@ -86,12 +85,9 @@ pretty,thrice,monstrously,gey,quite,mighty,stinking,sopping,some,assai,full,most
 85. 去, 去 (qù) - in order to
 86. 呢, 呢 (ne) - particle: marking quesitons about subject already mentioned; indicating strong af firmation
 87. 學⽣, 学⽣ (xuéshēng) - academic,pupil,pup,tutee,follower,scholar,schoolchild,schoolboy,alumnus,disciple,learner,scholastic,student
-88. 表⽰, 表⽰ (biǎoshì) -
-demonstrate,exhibit,prove,show,extend,manifest,express,stamp,signify,mark,witness,look,give,denote,evince,expression,bespeak,say,profess,mean,offer,utter,infer,indicate,represent,read,speak,refer,give
-tongue to,intend,be,shew,pay,stand_for,establish,stand for,present,render,betoken
+88. 表⽰, 表⽰ (biǎoshì) - demonstrate,exhibit,prove,show,extend,manifest,express,stamp,signify,mark,witness,look,give,denote,evince,expression,bespeak,say,profess,mean,offer,utter,infer,indicate,represent,read,speak,refer,give
 89. 到, 到 (dào) - up until
 90. 公司, 公司 (gōngsī) - place of business,business organization,incorporation,establishment,business concern,of fice,concern,business
-establishment,business,enterprise,company,corporation
 91. 將, 将 (jiāng) - introducing object of main verb
 92. 如果, 如果 (rúguǒ) - conj.: if
 93. 社會, 社会 (shèhuì) - community,society,monde,social,public
@@ -104,8 +100,6 @@ establishment,business,enterprise,company,corporation
 100. 它, 它 (tā) - they (neologism for {1ta1}[3] [4]), [4]),),this,that,it
 101. 中, 中 (zhōng) - center,middle,interior
 102. 使, 使 (shǐ) - rarefy,piss_off,germinate,drench,blow_out,leave,cut_up,refract,run,dress_up,compose,shed,frizz,put_of f,trot,send,strike,send (as
-envoy),peal,alienate,pull_in,tone_up,bring
-around,astound,sublease,wither,cripple,bed_down,address,rehearse,usage,warm,smell_out,throw,inflect,get_down,skunk,capsize,congeal,bowl_over,bring_on,unseat,ensure,amalgamate,pro
 103. ⼯作, ⼯作 (gōngzuò) - work,job
 104. 全, 全 (quán) - det.: all,Surname,whole,Quan
 105. 覺得, 觉得 (juéde) - imagine,guess,believe,reckon,suspect,suppose,think,listen,feel,consider ,think_of,appear,conceive
@@ -119,17 +113,14 @@ around,astound,sublease,wither,cripple,bed_down,address,rehearse,usage,warm,smel
 113. 知道, 知道 (zhīdào) - tell,have,ken,understand,infer,wis,learn,cognize,gather,know,be aware of,wise up,savvy,mind,realize
 114. 這樣, 这样 (zhèyàng) - so,such,like this,this way
 115. ⼀, ⼀ (yī) - as soon as
-116. 認為, 认为 (rènwéi) - find,treat,deem,suppose,look_on,repute,discount,esteem,accredit,feel,account,calculate,estimate,take to
-be,reckon,expect,think,hold,trust,recognise,opine,sound off,adjudge,consideration,consider,regard as,look
-upon,believe_in,disbelieve,allow,conceive,regard,call,imagine,view,forecast,believe,suspect,rate,animadvert,look on,listen,speak up,figure,c
+116. 認為, 认为 (rènwéi) - find,treat,deem,suppose,look_on,repute,discount,esteem,accredit,feel,account,calculate,estimate
 117. 時間, 时间 (shíjiān) - moment,day,clock time,fourth_dimension,relativity,hour,duration,time,when,while,temporal,economy
 118. 事, 事 (shì) - responsibility,trouble,event,thing,worry,accident,case,involvement,work,affair,job,concern,business,toast,matter
 119. 過, 过 (guò) - [aspect]
 120. 向, 向 (xiàng) - to,towards
 121. 可能, 可能 (kěnéng) - probably,maybe
 122. 中國, 中国 (zhōngguó) - Cathay,China,china
-123. 美國, 美国 (měiguó) - House_of_Representatives,the United States of America,US,U.S.A.,bench,Columbia,Yankeeland,U.S.,United
-States,Democrat,Yankeedom,USA,America,United States of America
+123. 美國, 美国 (měiguó) - House_of_Representatives,the United States of America,US,U.S.A.,bench,Columbia,Yankeeland,U.S.,United States,Democrat,Yankeedom,USA,America,United States of America
 124. 到, 到 (dào) - arrive,reach,go to
 125. 和, 和 (hé) - (together) with
 126. 幾, ⼏ (jǐ) - det.: how many,a few,several,some
@@ -138,8 +129,6 @@ States,Democrat,Yankeedom,USA,America,United States of America
 129. ⼤家, ⼤家 (dàjiā) - sundry,great master,rich and influential family,pontiff,all of us,everyone,authority,master,distinguished family
 130. 國家, 国家 (guójiā) - sirkar,state,country,patria,a people,nationality,nation,republic,soli,body politic,clime,national,civil order,polity,commonwealth,land,res publica
 131. 許多, 许多 (xǔduō) - lot,scores,lots,sight,pot,heap,quantity,plenty,slews,ton,battalion,many,scads,tidy sum,power,spate,chunk,pile,crowd,vastness,batch,lashings,whole
-lot,mint,mound,pocketful,large number,trunkful,ream,mickle,great deal,flock,mass,slew,heaps,a lot of,piles,whole
-slew,mess,raff,slue,gobs,much,lotta,multitude,volume,wad,store,raft,tons,satiety,rafts,doze
 132. ⽣活, ⽣活 (shēnghuó) - life,existence,livelihood
 133. 跟, 跟 (gēn) - with, to, from
 134. 已經, 已经 (yǐjīng) - already
@@ -159,8 +148,7 @@ slew,mess,raff,slue,gobs,much,lotta,multitude,volume,wad,store,raft,tons,satiety
 148. 項, 项 (xiàng) - m.[general]
 149. 啊, 啊 (ā) - particle: used in direct address and exclamation; indicating obviousness/impatience/suggestion; used for confirmation
 150. 下, 下 (xià) - under (condition/fact etc.)
-151. 環境, 环境 (huánjìng) -
-circumambiency,environmental,circumstances,environment,entourage,surround,atmosphere,setting,surroundings,ambiance,condition,context,circumstance,surrounding,frame,milie u,ambient,consideration,environs,medium,ambience
+151. 環境, 环境 (huánjìng) - circumambiency,environmental,circumstances,environment,entourage,surround,atmosphere,setting,surroundings,ambiance,condition,context,circumstance,surrounding,frame,milie u,ambient,consideration,environs,medium,ambience
 152. ⼀些, ⼀些 (yīxiē) - det.: some, a few, a little
 153. 必須, 必须 (bìxū) - must
 154. ⽂化, ⽂化 (wénhuà) - civilization,literacy,acculturation,Kultur,vandalism,cultural,education,schooling,culture
@@ -184,16 +172,14 @@ circumambiency,environmental,circumstances,environment,entourage,surround,atmosp
 172. 雖然, 虽然 (suīrán) - conj.: though,although
 173. 重要, 重要 (zhòngyào) - important,significant,major
 174. 重要, 重要 (zhòngyào) - important,significant,major
-175. 地⽅, 地⽅ (dìfāng) - country,soil,terrain,part,clime,way,territory,room,neighbourhood,tinderbox,locality (as distinct from the central
-administrat,child,tract,province,position,respect,where,region,space,place,local
+175. 地⽅, 地⽅ (dìfāng) - country,soil,terrain,part,clime,way,territory,room,neighbourhood,tinderbox,locality (as distinct from the central administrat,child,tract,province,position,respect,where,region,space,place,local
 176. 進⾏, 进⾏ (jìnxíng) - be in progress,go on,carry on/out
 177. 進⾏, 进⾏ (jìnxíng) - be in progress,go on,carry on/out
 178. 關係, 关系 (guānxì) - relation,bearing,impact,membership credentials,"backdoor connections"
 179. 市場, 市场 (shìchǎng) - bourse,bazar,marketplace,grocery store,agora,bazaar,securities industry,grocery,piazza,plaza,rialto,mart,pitch,market
 180. 太, 太 (tài) - excessively, too, extremely, very
 181. ⽼師, ⽼师 (lǎoshī) - rabbi,professor,swami,instructor,teacher,mast
-182. 提供, 提供 (tígōng) -
-feed,offer,put_up,afford,proffer,set_up,capitalize,bring_forward,sponsor,extend,ply,provision,sustain,equip,supply,cough_up,bear,render,furnish,cater,billet,provide
+182. 提供, 提供 (tígōng) - feed,offer,put_up,afford,proffer,set_up,capitalize,bring_forward,sponsor,extend,ply,provision,sustain,equip,supply,cough_up,bear,render,furnish,cater,billet,provide
 183. 學校, 学校 (xuéxiào) - seminary,schoolhouse,educational institution,school,institution
 184. 應該, 应该 (yīnggāi) - should,ought to
 185. 指出, 指出 (zhǐchū) - point,point_out,catch_out,bespeak,indicate,denote,point out (that),note,show,designate,point out
@@ -204,15 +190,13 @@ feed,offer,put_up,afford,proffer,set_up,capitalize,bring_forward,sponsor,extend,
 190. 發展, 发展 (fāzhǎn) - develop,expand,grow
 191. 發展, 发展 (fāzhǎn) - develop,expand,grow
 192. 教育, 教育 (jiàoyū) - education
-193. 成為, 成为 (chéngwéi) - find,join,comprise,turn to,commemorate,sample,entomb,come_up,commence,get hold,learn,add up,necessitate,run,make
-up,constitute,make,form,come,amount,represent,fall,presage,change,be,turn,turn into,become,line up,come up,shape,portend,foretell,get
+193. 成為, 成为 (chéngwéi) - find,join,comprise,turn to,commemorate,sample,entomb,come_up,commence,get hold,learn,add up,necessitate,run,makeup,constitute,make,form,come,amount,represent,fall,presage,change,be,turn
 194. 多, 多 (duō) - many,much,more,more than the correct/required number,excessive,too much,much/far more
 195. ⾮常, ⾮常 (fēicháng) - extraordinary,unusual,special,very,extremely,highly
 196. 便, 便 (biàn) - as early as,soon afterwards,little as,as early,and then,and so,so,as early/little as,as little as,then,in that case
 197. ⽅⾯, ⽅⾯ (fāngmiàn) - side,aspect,sector,part,light,facet,behalf,way,respect,direction,bearing,field,phase,sphere,angle,hand
 198. 很多, 很多 (hěnduō) - det.:
-199. 吃, 吃 (chī) - feed,have,be subject to,absorb,chow,live on,eat,have one's meals,be a strain,exhaust,fare,take in,live off,annihilate,wipe
-out,partake,suffer,ingest,consume,graze,lunch,manducate,incur,take,get,use up,make,taste,soak up
+199. 吃, 吃 (chī) - feed,have,be subject to,absorb,chow,live on,eat,have one's meals,be a strain,exhaust,fare,take in,live off,annihilate,wipe out,partake,suffer,ingest,consume,graze,lunch,manducate,incur,take,get,use up,make,taste,soak up
 200. 然後, 然后 (ránhòu) - therewith,and so,and_then,and then,thereupon,after that,so,then,with that
 201. 未, 未 (wèi) - or not (at end of sentence),have not yet,or not,not
 202. 發現, 发现 (fāxiàn) - find,discover
@@ -223,8 +207,7 @@ out,partake,suffer,ingest,consume,graze,lunch,manducate,incur,take,get,use up,ma
 207. ⼼, ⼼ (xīn) - heart,mind,feeling,center,core
 208. 不過, 不过 (búguò) - conj.: but, however, only
 209. 無法, ⽆法 (wúfǎ) - nohow,unable to,unable,cannot
-210. 企業, 企业 (qìyè) - proposition,business enterprise,business organization,business concern,concern,commercial
-enterprise,endeavour,endeavor,industry,business,project,corporation,enterprise
+210. 企業, 企业 (qìyè) - proposition,business enterprise,business organization,business concern,concern,commercial enterprise,endeavour,endeavor,industry,business,project,corporation,enterprise
 211. 正, 正 (zhèng) - precisely,punctually
 212. 服務, 服务 (fúwù) - be in the service of,serve
 213. 服務, 服务 (fúwù) - be in the service of,serve
@@ -233,8 +216,7 @@ enterprise,endeavour,endeavor,industry,business,project,corporation,enterprise
 216. 臺灣, 台湾 (táiwān) - Taiwan
 217. 曾, 曾 (zēng) - once,ever,before
 218. 嗎, 吗 (mā) - particle: calling for agreement or disagreement
-219. 空間, 空间 (kōngjiān) - elbow room,allowance,margin,roomage,open air/sky/space,road,leeway,way,open
-air,sheets,room,tolerance,opening,clear,sky,spacial,interspace,vacuity,spatial,dimension,open sky/space,space,place,vacuum
+219. 空間, 空间 (kōngjiān) - elbow room,allowance,margin,roomage,open air/sky/space,road,leeway,way,open air,sheets,room,tolerance,opening,clear,sky,spacial,interspace,vacuity,spatial,dimension,open sky/space,space,place,vacuum
 220. 看到, 看到 (kàndào) - view,receive,ken,observe,lamp,catch,see,take in,watch,chatter away,lay_eyes_on,boast,brag,shoot the breeze,spy,catch sight of, catch sight of
 221. 五, 五 (wǔ) - det.: five
 222. 如何, 如何 (rúhé) - how
@@ -253,7 +235,7 @@ air,sheets,room,tolerance,opening,clear,sky,spacial,interspace,vacuity,spatial,d
 235. 資訊, 资讯 (zīxùn) - stuff,message,information,news,info
 236. 資料, 资料 (zīliào) - food,source,info,means,data,information,material,datum,data point,matter
 237. ⽐較, ⽐较 (bǐjiǎo) - relatively,fairly
-238. 先⽣, 先⽣ (xiānshēng) - doctor of Chinese medicine,Don,mulla,Ms.,sir.,teacher,gentleman,gospodin,Signor,signor,fortuneteller,babu,baboo,Herr,Mister,bey,mister,bwana,husband,siree,buckra,sirrah,senor,guv,sahib,Mr.,rabbi,don,signore,Dan,sir,m'sieur,effendi,Tuan,baas,Monsieur,lording,monsieur,doctor,Mr,milord,Mynheer,signior,esquire,bookkeeper,Senor,rabboni,Senhor,sieur,sen
+238. 先⽣, 先⽣ (xiānshēng) - doctor of Chinese medicine,Don,mulla,Ms.,sir.,teacher,gentleman,gospodin,Signor,signor,
 239. 地, 地 (dì) - the earth,land,soil,fields,ground,place,position,background,distance
 240. 除了, 除了 (chúle) - except,besides
 241. ⼤陸, ⼤陆 (dàlù) - Ch. mainland
@@ -270,8 +252,7 @@ air,sheets,room,tolerance,opening,clear,sky,spacial,interspace,vacuity,spatial,d
 252. 若, 若 (ruò) - conj.: if,as if
 253. 亦, 亦 (yì) - also,too
 254. 地區, 地区 (dìqū) - section,country,area,latitude,zone,terrain,parts,locality,sector,province,prefecture,region,district,faubourg
-255. 技術, 技术 (jìshù) - mechanics,know-how,prowess,science,Minerva,superior
-skill,art,competence,technology,craft,craftsmanship,skill,education,technique,artistry,engineering,technological,equipment,technical
+255. 技術, 技术 (jìshù) - mechanics,know-how,prowess,science,Minerva,superior skill,art,competence,technology,craft,craftsmanship,skill,education,technique,artistry,engineering,technological,equipment,technical
 256. ⾄, ⾄ (zhì) - to, until, till
 257. 特別, 特别 (tèbié) - unusual,specially
 258. 其實, 其实 (qíshí) - as a matter of fact,actually,in fact
@@ -284,12 +265,9 @@ skill,art,competence,technology,craft,craftsmanship,skill,education,technique,ar
 265. 其中, 其中 (qízhōng) - among,of them,in it,among them,which,them,det.: it,in,in which
 266. 問, 问 (wèn) - ask,examine,question,interrogate
 267. 台北, 台北 (táiběi) - capital of Nationalist China,capital of Republic of China on Taiwan,Taipei
-268. 包括, 包括 (bāokuò) - consist_of,consist
-of,subtend,embrace,comprise,incorporate,embody,involve,count,subsume,take_in,comprehend,incorporation,include,comprize,run,cover ,package,consist in
-269. 講, 讲 (jiǎng) - discourse,utter,talk,negotiation,make clear,negotiate,parley,pay attention to,speak,syllable,discuss,explain,tell,be particular
-about,explanation,interpretation,interpret,relate,discussion,stress,mouth,say,remark,verbalize
-270. 造成, 造成 (zàochéng) - make_for,give rise to,create,set_up,strike,creation,cause,contribute,bring_about,procure,give,bring
-about,cut_out,necessitate,shape,present,bring_forth,generate,yield,make,breed
+268. 包括, 包括 (bāokuò) - consist_of,consist of,subtend,embrace,comprise,incorporate,embody,involve,count,subsume,take_in,comprehend,incorporation,include,comprize,run,cover ,package,consist in
+269. 講, 讲 (jiǎng) - discourse,utter,talk,negotiation,make clear,negotiate,parley,pay attention to,speak,syllable,discuss,explain,tell,be particular about,explanation,interpretation,interpret,relate,discussion,stress,mouth,say,remark,verbalize
+270. 造成, 造成 (zàochéng) - make_for,give rise to,create,set_up,strike,creation,cause,contribute,bring_about,procure,give,bring about,cut_out,necessitate,shape,present,bring_forth,generate,yield,make,breed
 271. 看, 看 (kàn) - think,consider
 272. 像, 像 (xiàng) - be like,resemble
 273. 常, 常 (cháng) - often,usually,frequently
@@ -302,8 +280,7 @@ about,cut_out,necessitate,shape,present,bring_forth,generate,yield,make,breed
 280. 出現, 出现 (chūxiàn) - appear,arise,emerge
 281. 政治, 政治 (zhèngzhì) - paternalism,trouble,government,policy,political relation,political science,polity,politics,political afairs,political
 282. 話, 话 (huà) - words,thing,language,tongue,talk,speech,spoken_language,conversation,utterance,expression,story ,tale,saying,natural language,sayings,word
-283. ⾛, ⾛ (zǒu) - scram,travel,foot,go away,evaporate,ankle,waltz,step,bugger of,etc.,go through,leave,leak,run,buzz off,leg,pad,fork,visit,go,escape,lose flavor,work,call
-on,strike,sashay,trace,pursue,gang,lose shape/etc.,get_along,come_along,walk,hoof it,lose flavor/shape/etc.,leg it,let out,shape,drive,cover ,take,get,hoof,move
+283. ⾛, ⾛ (zǒu) - scram,travel,foot,go away,evaporate,ankle,waltz,step,bugger of,etc.,go through,leave,leak,run,buzz off,leg,pad,fork,visit,go,escape,lose flavor,work,call on,strike,sashay,trace,pursue,gang,lose shape/etc.,get_along,come_along,walk,hoof it,lose flavor
 284. 單位, 单位 (dānwèi) - department,unit,denomination,module,building block,unit of measurement,monad,unit (in measurement or organization)
 285. ⼀直, ⼀直 (yīzhí) - e'er,away,continuously,all the way,right,forever,all_along,always,the whole way,all along,straight,slap,through,ever,evermore
 286. 吧, 吧 (ba) - particle: used to show mild imperative or uncertainty
@@ -323,21 +300,17 @@ on,strike,sashay,trace,pursue,gang,lose shape/etc.,get_along,come_along,walk,hoo
 300. 聽, 听 (tīng) - hear,list,hearken,obey,obedience,listen,heed,administer,let,allow,hark
 301. 所有, 所有 (suǒyǒu) - det.: all
 302. 只要, 只要 (zhǐyào) - conj.: so long as,provided
-303. 朋友, 朋友 (péngyǒu) - amigo,connections,kith,friend,boy,crony,ami,boy/girl friend,companion,mate,boy friend or girl friend,compadre,boy
-friend,Mac,paisano,matey,old_boy,sport,folks,pard,hearty,Kamerad,cocker,cobber,girl friend,pardner,company
+303. 朋友, 朋友 (péngyǒu) - amigo,connections,kith,friend,boy,crony,ami,boy/girl friend,companion,mate,boy friend or girl friend,compadre,boy friend,Mac,paisano,matey,old_boy,sport,folks,pard,hearty,Kamerad,cocker,cobber,girl friend,pardner,company
 304. 令, 令 (lìng) - make,cause
 305. 甚⾄, 甚⾄ (shènzhì) - even (to the point of),so much so that
 306. ⽤, ⽤ (yòng) - use,employ,apply,eat,drink,spend
 307. 真, 真 (zhēn) - really, truly, indeed, clearly
 308. 六, 六 (liù) - det.: six
-309. 呀, 呀 (ya) - particle: replacing 啊 when preceding word ends in a, e, i, o, or (y)u; used in direct address and exclamation; indicating obviousness/impatience/suggestion; used for
-confirmation
-310. 情況, 情况 (qíngkuàng) - event,things,state of afairs,circumstantiality,case,circumstances,way,plight,experimental condition,streak,military
-situation,matter,condition,mood,circumstance,context,occasion,thing,instance,affair,shape,situation,juncture,consideration
+309. 呀, 呀 (ya) - particle: replacing 啊 when preceding word ends in a, e, i, o, or (y)u; used in direct address and exclamation; indicating obviousness/impatience/suggestion; used for confirmation
+310. 情況, 情况 (qíngkuàng) - event,things,state of afairs,circumstantiality,case,circumstances,way,plight,experimental condition,streak,military situation,matter,condition,mood,circumstance,context,occasion,thing,instance,affair,shape,situation,juncture,consideration
 311. 還是, 还是 (háishì) - still,nevertheless
 312. 錢, 钱 (qián) - copper coin,cash,money,fund,sum
-313. ⽅法, ⽅法 (fāngfǎ) - know-how,plan,attack,system,stepping-stone,manner,method,gateway,idea,measure,way,guise,key,wise,quomodo,plan of
-attack,tack,machinery,process,avenue,modus,how,means,channel,gate,approach,agency,gamesmanship,mode,medium,sort
+313. ⽅法, ⽅法 (fāngfǎ) - know-how,plan,attack,system,stepping-stone,manner,method,gateway,idea,measure,way,guise,key,wise,quomodo,plan of attack,tack,machinery,process,avenue,modus,how,means,channel,gate,approach,agency,gamesmanship,mode,medium,sort
 314. 點, 点 (diǎn) - m.[proximation]
 315. 任何, 任何 (rènhé) - aught,det.: any
 316. 經驗, 经验 (jīngyàn) - experience
@@ -373,30 +346,23 @@ attack,tack,machinery,process,avenue,modus,how,means,channel,gate,approach,agenc
 346. ⾒, ⻅ (jiàn) - see,be exposed to,become visible,call on,refer to,meet with,appear to be,appear ,vide,catch sight of,meet
 347. 半, 半 (bàn) - det.: half
 348. 半, 半 (bàn) - det.: half
-349. 時代, 时代 (shídài) - day,period,a period in one's life,epoch,present time,historical period,time,chapter,period in one's life,modern times,historic period,contemporary
-world,times,era,modern world,age
+349. 時代, 时代 (shídài) - day,period,a period in one's life,epoch,present time,historical period,time,chapter,period in one's life,modern times,historic period,contemporary world,times,era,modern world,age
 350. 完成, 完成 (wánchéng) - fill in,finish out,fulfil,practice,complete,finish,encompass,clear_up,top_of f,cleave,top off,accomplishment,make out,efect,perfective,fulfill,go
-through,exercise,discharge,fill out,completion,end,run,bring ... to fruition,round_out,achieve,execute,round out,make,cap of f,accomplish,practise,follow
-through,come,finalize,fulfilment,dispatch,bring ...
 351. 帶, 带 (dài) - look after,raise
 352. 相當, 相当 (xiāngdāng) - quite,fairly,considerably
 353. 同學, 同学 (tóngxué) - class fellow,fellow student,condisciple,classmate,schoolmate,schoolfellow,form of address used in speaking to a student
 354. 件, 件 (jiàn) - correspondence,paper,document,bit,m.[general],,single item,letter,piece
-355. 能⼒, 能⼒ (nénglì) -
-department,potency,ability,acquisition,acquirement,capacity,performance,oomph,suficiency,energy,competence,accomplishment,size,might,faculty,hand,coequal,efficiency,inner
-resources,capability,giftie,attainment,capableness,zip,skill,competency,power
+355. 能⼒, 能⼒ (nénglì) - department,potency,ability,acquisition,acquirement,capacity,performance,oomph,suficiency,energy,competence,accomplishment,size,might,faculty,hand,coequal,efficiency,inner 
 356. 別⼈, 别⼈ (biérén) - others,other people,another person
 357. ⽣命, ⽣命 (shēngmìng) - breath,god,head,anima,days,organism,blood,life,living thing,skin,longevity,being,vital,life form
 358. 下, 下 (xià) - below,under,underneath
 359. 來, 来 (lái) - time (since)
 360. 場, 场 (cháng) - m.[event]
-361. 會議, 会议 (huìyì) - synod,moot,conference,board,convocation,soviet,congress,talks,indaba,negotiation,junta,group discussion,convention,meeting
-place,session,council,rendezvous,colloquy,coming together,powwow,seance,meeting,forum,consultation,roll-up,get-together,assembly
+361. 會議, 会议 (huìyì) - synod,moot,conference,board,convocation,soviet,congress,talks,indaba,negotiation,junta,group discussion,convention,meeting place,session,council,rendezvous,colloquy,coming together,powwow,seance,meeting,forum,consultation
 362. 容易, 容易 (róngyì) - easy
 363. 開發, 开发 (kāifā) - develop,open up,exploit
 364. 開發, 开发 (kāifā) - develop,open up,exploit
-365. ⺠眾, ⺠众 (mínzhòng) - civil,crowd,masses,populace,rank_and_file,the masses,the masses of the people,the populace,demos,mob,multitude,plebs,commons,the common
-people,the people,million,public
+365. ⺠眾, ⺠众 (mínzhòng) - civil,crowd,masses,populace,rank_and_file,the masses,the masses of the people,the populace,demos,mob,multitude,plebs,commons,the common people,the people,million,public
 366. 事情, 事情 (shìqíng) - proposition,pie,shebang,thing,affair,occasions,undertaking,concern,question,business,schmear,matter
 367. 書, 书 (shū) - volume,document,style of calligraphy,book,script,letter
 368. 事實, 事实 (shìshí) - mood,circumstance,fact,factual,reality,verity,case,deed,sooth,troth,actuality,truth,matter,matter of fact
@@ -418,8 +384,7 @@ people,the people,million,public
 384. 解決, 解决 (jiějué) - solve,resolve,settle,dispose of,finish off
 385. 完全, 完全 (wánquán) - completely,fully,wholly,absolutely
 386. 的話, 的话 (dehuà) - conj.: if
-387. 接受, 接受 (jiēshòu) - receive (honors,have,receive,acknowledge,sweep up,espouse,etc.),come to grips,adopt,embrace,greet,welcome,hook on,seize on,take
-up,accede,taken,entertain,latch on,buy,fasten on,swallow,imbibe,accept,receive (honors/etc.),undergo,get to grips,take,adapt,acceptance,thole
+387. 接受, 接受 (jiēshòu) - receive (honors,have,receive,acknowledge,sweep up,espouse,etc.),come to grips,adopt,embrace,greet,welcome,hook on,seize on,take up,accede,taken,entertain,latch on,buy,fasten on,swallow,imbibe,accept
 388. 知, 知 (zhī) - tell,notify,inform,be expert in,know,sense,be aware of,administration,notification,administer,be in charge of,realize
 389. 約, 约 (yuē) - about,around
 390. 建築, 建筑 (jiànzhù, jiànzhú) - building,structure,edifice,architecture
@@ -453,38 +418,32 @@ up,accede,taken,entertain,latch on,buy,fasten on,swallow,imbibe,accept,receive (
 418. ⽗⺟, ⽗⺟ (fùmǔ) - parental,parents,father and mother,folks
 419. 寫, 写 (xiě) - description,bewrite,direct,describe,pencil,draw,paint,inscribe,write,depiction,write_out,throw_off,depict,address,author,screeve,word,compose
 420. ⼈類, ⼈类 (rénlèi) - man,wight,human_being,human,human race,mankind,individual,human
-species,Homo_sapiens,populace,creature,hominid,world,mortality,microcosm,humans,humanitarianism,humanity,humanness,human
-beings/species,people,species,humankind,human beings,public,mortal
 421. ⾄於, ⾄于 (zhìyū) - as for/to
 422. 買, 买 (mǎi) - pick up,invest,hire,buy,purchase,put_down,trade,get
 423. 尤其, 尤其 (yóují) - especially
 424. 配合, 配合 (pèihé) - coordinate, cooperate
 425. 配合, 配合 (pèihé) - coordinate, cooperate
-426. 進⼊, 进⼊ (jìnrù) - go_into,get_in,debouch,get in,go into,move into,come_into,pass,step_in,lapse,get_into,set in,go in,get into,kick
-in,penetrate,intromission,pierce,come_in,come in,enter,entry,sink,impenetrate
+426. 進⼊, 进⼊ (jìnrù) - go_into,get_in,debouch,get in,go into,move into,come_into,pass,step_in,lapse,get_into,set in,go in,get into,kick in,penetrate,intromission,pierce,come_in,come in,enter,entry,sink,impenetrate
 427. 例如, 例如 (lìrú) - for instance/example,e.g.,such as
 428. 得, 得 (děi) - should be,need
 429. 討論, 讨论 (tǎolùn) - to discuss,to take something up with someone,to talk about
 430. 討論, 讨论 (tǎolùn) - to discuss,to take something up with someone,to talk about
 431. 依, 依 (yī) - according to,judging by
-432. 作品, 作品 (zuòpǐn) - writing,musical composition,whole kit and caboodle,works (of literature,artwork,kit and caboodle,product,whole works,creation,full treatment,kit and
-boodle,whole kit and boodle,works (of literature/art),composition,thing,piece of music,workpiece,output,art),written material,opus,whole shebang,whole caboodle,production,whole
-kit,piece,workmanship,wo
+432. 作品, 作品 (zuòpǐn) - writing,musical composition,whole kit and caboodle,works (of literature,artwork,kit and caboodle,product,whole works,creation,full treatment,kit and boodle,whole kit and boodle,works (of literature/art),composition,thing,piece of 
 433. 情形, 情形 (qíngxíng) - circumstance,trimness,event,trim,instance,state of affairs,case,circumstances,status,situation,condition
 434. 資源, 资源 (zīyuán) - resource,natural resources,mine,resources
 435. 原因, 原因 (yuányīn) - origin,causation,reason,wherefore,causal,breeder,spore,cause,causal agent,whence,causal agency,occasion,root,subject,causality,why,starter
 436. 啦, 啦 (lā) - particle: used when informing sb. of st.; indicating excitement/doubt/comfort/etc.
 437. 妳, 妳 (nǐ) - you(female)
 438. 運動, 运动 (yùndòng) - sports,athletics,exercise,movement,campaign
-439. 觀念, 观念 (guānniàn) -
-conception,intension,theory,philosophy,idolum,connotation,idea,sense,presentation,notion,concept,construct,intellection,presentment,thought,notional,conceit
+439. 觀念, 观念 (guānniàn) - conception,intension,theory,philosophy,idolum,connotation,idea,sense,presentation,notion,concept,construct,intellection,presentment,thought,notional,conceit
 440. 給, 给 (gěi) - for,for the benefit of,by (in passive cons.)
 441. 軟體, 软体 (ruǎntǐ) - software
 442. 品質, 品质 (pǐnzhí) - calibre,appraisal,caliber,character,self,intrinsic,brew,quality,timber,sort
 443. 經過, 经过 (jīngguò) - pass,go through,undergo
 444. 如此, 如此 (rúcǐ) - thus,like this,such
 445. 嗯, 嗯 (ēn) - O.K.,How come,Huh,What,Why,Agreed!,well,um
-446. 精神, 精神 (jīngshén) - god,guts,heart,pneuma,consciousness,vigor,life,energy,vim,courage,esprit,moral,get-up-andgo,ginger,vitality,Psyche,psyche,spunk,gumption,juice,sand,mind,mental,mens,mickey,mettle,nature,grit,oomph,genius,vigour,substance,psychic,backbone,nous,nerve,pazazz,essence,pep,spirit,inward,drive,push,soul,gist
+446. 精神, 精神 (jīngshén) - god,guts,heart,pneuma,consciousness,vigor,life,energy,vim,courage,esprit,moral,get-up 
 447. 影響, 影响 (yǐngxiǎng) - influence
 448. 之, 之 (zhī) - it, him, her, this
 449. 過, 过 (guò) - pass,cross,transfer (e.g.,ownership),undergo a process,go through,celebrate,observe
@@ -494,8 +453,7 @@ conception,intension,theory,philosophy,idolum,connotation,idea,sense,presentatio
 453. 參與, 参与 (cānyū) - participate in
 454. 以後, 以后 (yǐhòu) - afterwards,later,future,in the future,hereafter
 455. 於是, 于是 (yūshì) - conj.: thereupon,hence,consequently,as a result
-456. 部分, 部分 (bùfèn) - partial,department,section,partialness,slice,pars,part,det.:
-part,percent,partage,sphere,component,divvy,segment,portion,fraction,sector,chapter,share,percentage,piece,division,sectional,parcel
+456. 部分, 部分 (bùfèn) - partial,department,section,partialness,slice,pars,part,det.: part,percent,partage,sphere,component,divvy,segment,portion,fraction,sector,chapter,share,percentage,piece,division,sectional,parcel
 457. 另外, 另外 (lìngwài) - conj.: in addition, besides, moreover
 458. 公園, 公园 (gōngyuán) - common,green,garden,commons,park
 459. 透過, 透过 (tòuguò) - via
@@ -507,19 +465,16 @@ part,percent,partage,sphere,component,divvy,segment,portion,fraction,sector,chap
 465. 共同, 共同 (gòngtóng) - common,joint
 466. 所謂, 所谓 (suǒwèi) - so-called
 467. 下, 下 (xià) - det.: next, second
-468. ⾏為, ⾏为 (xíngwéi) - fact,demeanor,form,deportment,dealing,behavior,doings,course,act,point,goingson,demeanour,procedure,lapse,going,bearing,turn,behaviour,activity,ongoing,thing,human
-action,conduct,commitment,human activity,behavioral,agency,deed,comportment,action
+468. ⾏為, ⾏为 (xíngwéi) - fact,demeanor,form,deportment,dealing,behavior,doings,course,act,point,goingson,demeanour,procedure,lapse,going,bearing,turn,behaviour,activity,ongoing,thing,human action,conduct,commitment
 469. 合作, 合作 (hézuò) - cooperate,collaborate,work together
 470. 經, 经 (jīng) - as a result of,through,after
 471. 合作, 合作 (hézuò) - cooperate,collaborate,work together
-472. ⽬標, ⽬标 (mùbiāo) - polestar,objective,goal,bourn,object,meaning,aim,end point,target,cause,landmark,butt,lodestar,bull's eye,mark,tee,cynosure,end,bell
-ringer,loadstar,quaesitum,destination
+472. ⽬標, ⽬标 (mùbiāo) - polestar,objective,goal,bourn,object,meaning,aim,end point,target,cause,landmark,butt,lodestar,bull's eye,mark,tee,cynosure,end,bell ringer,loadstar,quaesitum,destination
 473. 起來, 起来 (qǐlái) - [aspect]
 474. 考慮, 考虑 (kǎolù) - think over,consider
 475. 考慮, 考虑 (kǎolù) - think over,consider
 476. ⻑, ⻓ (cháng) - long,be strong/good (in/at)
-477. 意⾒, 意⻅ (yìjiàn) - latitude,point_of_view,estimation,sight,conceit,verdict,hypothesis,attitude,estimate,possibility,judgement,appraisal,ground,slant,differing
-opinion,ruling,complaint,thinking,suggestion,comment,advisement,mind,apprehension,say,vote,impression,deliverance,view,understanding,feeling,idea,notion,sentiment,judgment,advice,current,opinion,advert,theory,v
+477. 意⾒, 意⻅ (yìjiàn) - latitude,point_of_view,estimation,sight,conceit,verdict,hypothesis,attitude,estimate,possibility,judgement,appraisal,ground,slant,differing opinion,ruling,complaint
 478. 辦法, 办法 (bànfǎ) - road,expedient,policy,agency,measure,way,method,means
 479. ⾳樂, ⾳乐 (yīnyuè) - music
 480. 連, 连 (lián) - conj.: including
@@ -535,9 +490,7 @@ opinion,ruling,complaint,thinking,suggestion,comment,advisement,mind,apprehensio
 490. 教學, 教学 (jiāoxué) - teach and study
 491. 教學, 教学 (jiāoxué) - teach and study
 492. 極, 极 (jí) - extraordinary,unusual,special,very,extremely,highly
-493. 獲得, 获得 (huòdé) - find,cop,acquirement,come_into,gain,draw,pick_up,pull,achievement,score,procure,come_by,get hold,purchase,nab,come
-upon,derive,latch,incur,achieve,make,bring,receive,arrive,come_out,pocket,obtain,luck into,sack,win,enter upon,pick up,garner ,harvest,attain,come up,line
-up,extract,secure,possess,earn,reap,accrue,cover,take,acquire,get,arrive_at
+493. 獲得, 获得 (huòdé) - find,cop,acquirement,come_into,gain,draw,pick_up,pull,achievement,score,procure,come_by,get hold,purchase,nab,come upon,derive,latch,incur,achieve
 494. 真的, 真的 (zhēnde) - really,truly,indeed
 495. 路, 路 (lù) - road,path,way,journey,distance,means,sequence,logic,line,region,district,route,sort,grade,class
 496. 來, 来 (lái) - particle: used to denote the beginning of an action
@@ -545,8 +498,7 @@ up,extract,secure,possess,earn,reap,accrue,cover,take,acquire,get,arrive_at
 498. 國⼩, 国⼩ (guóxiǎo) - primary/elementary school,primary school
 499. 部份, 部份 (bùfèn) - composition,segment,section,side,portion,slice,proportion,part,det.: part,share,component,division,phase,place,piece
 500. ⼯程, ⼯程 (gōngchéng) - process,construction,engineering,engineering project,project
-501. ⼥⼈, ⼥⼈ (nǔrén) - jade,crumpet,female,female person,Gill,bitch,chick,fair,squaw,womenfolk,adult
-female,doll,momma,wench,skirt,womankind,girl,jill,wife,broad,petticoat,sister ,woman,bimbo,bird,jane,she,hen,hairpin,dame,women
+501. ⼥⼈, ⼥⼈ (nǔrén) - jade,crumpet,female,female person,Gill,bitch,chick,fair,squaw,womenfolk,adult female,doll,momma,wench,skirt,womankind,girl,jill,wife,broad,petticoat,sister ,woman,bimbo,bird,jane,she,hen,hairpin,dame,women
 502. 舉⾏, 举⾏ (jǔxíng) - hold (meeting/etc.)
 503. 舉⾏, 举⾏ (jǔxíng) - hold (meeting/etc.)
 504. 句, 句 (jù) - sentence,m.[general],
@@ -555,22 +507,18 @@ female,doll,momma,wench,skirt,womankind,girl,jill,wife,broad,petticoat,sister ,w
 507. 根據, 根据 (gēnjù) - on the basis of,according to
 508. 現象, 现象 (xiànxiàng) - phenomenon,phenomenal,appearance
 509. ⼈⺠, ⼈⺠ (rénmín) - multitude,citizen,quarter,Volk,hoi polloi,subject,people,nationals,masses,the people,mass,demotic
-510. ⼟地, ⼟地 (tǔdì) - country,acre,terra,soil,premise,realm,territory,dirt,local god of the land,farming,earth,ground,kingdom,holding,agrarian,solid
-ground,benefice,esplees,tract,village god,glebe,terra firma,land,dry land
+510. ⼟地, ⼟地 (tǔdì) - country,acre,terra,soil,premise,realm,territory,dirt,local god of the land,farming,earth,ground,kingdom,holding,agrarian,solid ground,benefice,esplees,tract,village god,glebe,terra firma,land,dry land
 511. ⾯對, ⾯对 (miànduì) - face up,stand up,face,look_out_on,confront,front,affront,envisage,accost,breast
 512. 注意, 注意 (zhùyì) - pay attention to,take note of
 513. 注意, 注意 (zhùyì) - pay attention to,take note of
 514. 這裡, 这⾥ (zhèlǐ) - this place,there,here
 515. 新聞, 新闻 (xīnwén) - unco,leak,intelligence,newsworthiness,witting,journalistic,information,journalism,courant,news
-516. 繼續, 继续 (jìxù) - go,resume,keep_on,abide,come on,persist in,extend,run_on,run on,carry_on,stretch,sustain,pursue,keep
-going,continuance,get_along,get_on,remain,continue,keep_up,go ahead,keep up,come up,continuation,hold,carry ,run,go_on,maintain,go on,bide,plow ahead,hold_on,piece,restart
+516. 繼續, 继续 (jìxù) - go,resume,keep_on,abide,come on,persist in,extend,run_on,run on,carry_on,stretch,sustain,pursue,keep going,continuance,get_along,get_on,remain,continue,keep_up,go ahead,keep up,come up,continuation,hold,carry 
 517. 相信, 相信 (xiāngxìn) - deem,believe,credit,esteem,accredit,feel,trow,count,have faith in,guess,lippen,buy,be convinced
-of,hold,think,trust,accept,know,hone,believe_in,favour,believe in,hope
 518. 政策, 政策 (zhèngcè) - statism,tack,line,policy,statecraft
 519. 變成, 变成 (biànchéng) - grow_into,change into,go,form,grow into,change state,develop into,turn to,fall,turn_into,be,turn,become,turn into,grow,run,get
 520. 計劃, 计划 (jìhuà) - plan,project,program
 521. 強調, 强调 (qiángdiào) - underscore,spotlight,place emphasis on,point_up,highlight,point,point up,enforce,emphasise,urge,underline,overstress,give emphasis to,play
-up,keynote,insist,punctuate,accent,betone,foreground,emphasize,emphatic,stress,set of f,overemphasize,accentuate,bring out
 522. 學, 学 (xué) - study,learn,imitate,mimic
 523. ⼈⼠, ⼈⼠ (rénshì) - public figure,personage
 524. 前, 前 (qián) - front
@@ -578,8 +526,7 @@ up,keynote,insist,punctuate,accent,betone,foreground,emphasize,emphatic,stress,s
 526. 存在, 存在 (cúnzài) - exist,be
 527. 存在, 存在 (cúnzài) - exist,be
 528. 制度, 制度 (zhìdù) - ism,organization,dispensation,regimen,machine,regulations,form,system,regime,organisation,economy ,institutional,institution
-529. 意義, 意义 (yìyì) -
-importance,significance,denotation,purport,drift,signality,emptiness,meaning,construction,bearing,substance,import,effect,insignificancy,hang,signification,sense
+529. 意義, 意义 (yìyì) - importance,significance,denotation,purport,drift,signality,emptiness,meaning,construction,bearing,substance,import,effect,insignificancy,hang,signification,sense
 530. 代表, 代表 (dàibiǎo) - representative,delegate
 531. 課程, 课程 (kèchéng) - course of instruction,lesson,course,course of lectures,course of study,curricular,class,curricula,syllabus,curriculum,program
 532. 該, 该 (gāi) - ought to,should
@@ -601,8 +548,7 @@ importance,significance,denotation,purport,drift,signality,emptiness,meaning,con
 548. 分, 分 (fèn) - m.[general]
 549. 實際, 实际 (shíjì) - practical,literal
 550. 實際, 实际 (shíjì) - practical,literal
-551. 團體, 团体 (tuántǐ) -
-fraternity,sect,phalanx,collective,body,group,sodality,element,organisation,corporation,confession,college,establishment,brotherhood,community,organization,squad,union,administration,society,army,commonwealth,consort,company,lineup,combine,governance,clan,combination,fellowship,organizational,bloc,team,party,connection,family,brass,squadron
+551. 團體, 团体 (tuántǐ) - fraternity,sect,phalanx,collective,body,group,sodality,element,organisation
 552. 價值, 价值 (jiàzhí) - value,worth
 553. 使得, 使得 (shǐdé) - render,wreck,compel,cause,make
 554. 類, 类 (lèi) - m.[kind]
@@ -622,14 +568,12 @@ fraternity,sect,phalanx,collective,body,group,sodality,element,organisation,corp
 568. 動物, 动物 (dòngwù) - thing,critter,crittur,zoic,anthropomorphism,animal,deer,animate being,beast,creature,burrow,sire,worker,fauna,brute
 569. 電話, 电话 (diànhuà) - blower,phone call,headphone,earpiece,telephone,telephone_call,buzz,earphone,horn,telephone set,phone_call,telephony,phone
 570. 態度, 态度 (tàidù) - stance,treatment,demeanor,dealing,deportment,pose,behavior,manner,demeanour,way,bearing,attitude,air,behaviour,front,mien,conduct,mental
-attitude,approach,posture,address,position,bedside_manner,movement,gesture,comportment,presence,sort
 571. 建設, 建设 (jiànshè) - construction
 572. 事業, 事业 (shìyè) - proposition,task,pidgin,institution,undertaking,deed,facilities,life history,endeavour,endeavor,cause,career,project,action,enterprise
 573. ⽼, ⽼ (lǎo) - old,aged;of long standing,outdated,tough,overgrown,dark (of colors)
 574. 那麼, 那么 (nàmo) - so
 575. 常常, 常常 (chángcháng) - oftentimes,ofttimes,commonly,ordinarily,oft,often,a great deal,normally,frequently,unremarkably,much,usually
 576. 字, 字 (zì) - graphic symbol,writing,pronunciation (of a word),form of a written character ,receipt,printing type,script,name taken at the age of 20,courtesy
-name,wordage,character,grapheme,contract,scripts,symbolic representation,style of handwriting,word
 577. 坐, 坐 (zuò) - sit,take seat
 578. 舉辦, 举办 (jǔbàn) - conduct,hold,run
 579. 舉辦, 举办 (jǔbàn) - conduct,hold,run
@@ -637,20 +581,15 @@ name,wordage,character,grapheme,contract,scripts,symbolic representation,style o
 581. 有的, 有的 (yǒude) - det : some
 582. 具, 具 (jù) - possess,have,provide,furnish
 583. ⽬的, ⽬的 (mùdì) - view,pretence,objective,goal,purport,intention,bourn,object,motive,motivation,meaning,aim,end point,hent,target,scope,sense of
-purpose,errand,purposefulness,sake,function,end,purpose,quaesitum,intent
 584. 塊, 块 (kuài) - m.[general]
-585. 條件, 条件 (tiáojiàn) -
-mood,formula,conditional,precondition,prerequisite,requisition,factor,qualification,requirement,stipulation,proviso,circumstances,provision,term,reservation,if,condition
+585. 條件, 条件 (tiáojiàn) -mood,formula,conditional,precondition,prerequisite,requisition
 586. 即使, 即使 (jíshǐ) - conj.: even, even if/though
 587. 好, 好 (hǎo) - very,quite,good to,easy to
 588. ⼗分, ⼗分 (shífēn) - very, fully, utterly, extremely
 589. 多少, 多少 (duōshǎo) - det.: how many,how much,many
 590. 放, 放 (fàng) - loose,bloom,make longer,set ... free,let sb. have his own way,show,readjust,free,make larger,put in,fly,etc.,release,discharge,leave alone,bung,lay
-aside,put,expansion,make longer/larger/etc.,fling,localize,lend (money) at interest,let go,set,pasture,pose,set free,blossom,lay ,let off,put out to pasture,send
-away,play,expand,make larger/etc.,readjus
 591. ⼜, ⼜ (yòu) - conj.: and,in addition,but,on the other hand
 592. 電影, 电影 (diànyǐng) - cinematography,moving_picture,pix,kinema,picture,film,movie,moving picture,flick,cinema,motion_picture,cinematic,celluloid,picture show,motion
-picture,flicker
 593. 科學, 科学 (kēxué) - ology,scientific,science,scientific knowledge
 594. 執⾏, 执⾏ (zhíxíng) - carry out,execute
 595. 執⾏, 执⾏ (zhíxíng) - carry out,execute
@@ -665,9 +604,7 @@ picture,flicker
 604. 張, 张 (zhāng) - m.[general]
 605. 針對, 针对 (zhēnduì) - in the light of,in connection with
 606. 員⼯, 员⼯ (yuángōng) - employee,personnel,reason,force,staff,cause
-607. 引起, 引起 (yǐnqǐ) - elicit,beget,causation,give rise
-to,incite,pique,engender,bring_on,trigger,fire,compel,kick_up,superindividual,draw,spawn,invite,touch_of,occasion,lead,bring_about,procure,touch
-off,raise,enkindle,give,poke,produce,capture,generate,stir,arouse,excite,put forward,provoke,breed,bring,conjure up,grip,create,kindle,tempt,set_up,interest,give rise,enga
+607. 引起, 引起 (yǐnqǐ) - elicit,beget,causation,give rise to,incite,pique,engender,bring_on,trigger,fire,compel,kick_up,superindividual,draw,spawn,invite,touch_of,occasion,lead,bring_about,procure,touch
 608. ⾃然, ⾃然 (zìrán) - natural world
 609. 那麼, 那么 (nàmo) - like that,in that way
 610. 安全, 安全 (ānquán) - safe,secure
@@ -677,17 +614,14 @@ off,raise,enkindle,give,poke,produce,capture,generate,stir,arouse,excite,put for
 614. 擁有, 拥有 (yǒngyǒu) - occupy,have,receive,aught,hold back,keep,keep back,owe,retain,own,possess,possession,hold,seize,take,acquire,corral,hold on
 615. 並且, 并且 (bìngqiě) - conj.: and,besides,moreover
 616. 事件, 事件 (shìjiàn) - fact,event,page,incidental,go,case,job,natural event,timing,proceedings,social
-occasion,happening,occurrence,matter,occasion,incident,shebang,afair,chapter,concernment
 617. 設計, 设计 (shèjì) - plan,design
 618. 研究所, 研究所 (yánjiùsuǒ) - graduate_school,research institute,school,laboratory,graduate school,institute
-619. 語⾔, 语⾔ (yǔyán) - linguistic communication,lingual,language,idiom,tongue,oral communication,speech,perspicuity,lingo,contumely,Fortran,parole,natural language,spoken
-language,linguistic process
+619. 語⾔, 语⾔ (yǔyán) - linguistic communication,lingual,language,idiom,tongue,oral communication,speech,perspicuity,lingo,contumely,Fortran,parole,natural language
 620. 嚴重, 严重 (yánzhòng) - serious,significant,acute,critical,severe,grave
 621. 故事, 故事 (gùshì) - spiel,recital,relation,scam,rede,plot,yarn,narration,story,fiction,tale,history,legend,narrative
 622. 學術, 学术 (xuéshù) - ology,academic,systematic learning,science,learning
 623. ⽚, ⽚ (piàn) - m.[general]
-624. 設備, 设备 (shèbèi) -
-installation,set,device,appointment,plant,fixing,system,appliance,fixture,fitting,accommodation,fitment,finishing,unit,furnishings,materiel,contrivance,paraphernalia,facilities,rig,equipage,setout,facility ,fixings,equipment
+624. 設備, 设备 (shèbèi) - installation,set,device,appointment,plant,fixing,system,appliance,fixture,fitting,accommodation,fitment,
 625. 之外, 之外 (zhīwài) - beyond, apart from, excluding
 626. ⾞, ⻋ (chē) - vehicle
 627. 基本, 基本 (jīběn) - fundamental,essential,main
@@ -695,12 +629,10 @@ installation,set,device,appointment,plant,fixing,system,appliance,fixture,fittin
 629. 久, 久 (jiǔ) - for long time,of specified duration
 630. 套, 套 (tào) - m.[general]
 631. 達到, 达到 (dádào) - extend to,find,fulfil,compass,encompass,extend,gain,answer,achievement,succeed,fulfill,live_up_to,attainment,strain,bring_up,achieve,get
-to,touch,strive,make,accomplish,progress to,come,hit,come_out,obtain,reach,attain,clock_up,suf fice,do,get,arrive_at
 632. 改善, 改善 (gǎishàn) - improve,perfect
 633. 改善, 改善 (gǎishàn) - improve,perfect
 634. 死, 死 (sǐ) - die
-635. 結構, 结构 (jiégòu) -
-constitution,configuration,framing,structural,design,underframe,framework,construction,structure,schematism,economy ,fabric,mechanics,composition,machinery,contexture,texture,constellation,fable,ordonnance,skeleton,organization,frame,architecture,chemistry ,make
+635. 結構, 结构 (jiégòu) - constitution,configuration,framing,structural,design,underframe
 636. 住, 住 (zhù) - inhabit,cease,stay,visit,shack,dwell,stop,people,live,reside,populate,dig
 637. 皆, 皆 (jiē) - all,everyone
 638. 改變, 改变 (gǎibiàn) - change,transform
@@ -715,7 +647,6 @@ constitution,configuration,framing,structural,design,underframe,framework,constr
 647. 僅, 仅 (jǐn) - scantily,simply,alone,merely,barely,only,but,just
 648. 值得, 值得 (zhíde) - be worth,merit,pay,rate,behove,worthwhile,worth,worthy,deserve,call_for,command
 649. 學者, 学者 (xuézhě) - academic,literate,pandit,letters,litterateur,learned person,literati,philomath,pundit,academician,faculty member,scholar,bookman,clerk,student,scholarly
-person,man of letters,man of learning,speleologist,doctor,clerisy,initiate,swami,punditry,savant,learned man,sophist
 650. ⼋, ⼋ (bā) - det.: eight
 651. 交通, 交通 (jiāotōng) - intercourse,commutation,transportation,communication,commuting,traf fic,traffic_light,liaison man,communications,dealings,liaison
 652. 階段, 阶段 (jiēduàn) - staged,period,phase angle,stage,gradation,level,peg,grade,remove,phase,leg,step
@@ -730,14 +661,12 @@ person,man of letters,man of learning,speleologist,doctor,clerisy,initiate,swami
 661. 嘛, 嘛 (má) - particle: used to persuade someone to do something; used to emphasize the obvious
 662. ⾹港, ⾹港 (xiānggǎng) - Hong Kong
 663. 記者, 记者 (jìzhě) - journalist,writer,correspondent,newspaperwoman,newspaperman,gazetteer,newswriter,reporter,pressman,newshound,newsman,newsperson
-664. 壓⼒, 压⼒ (yālì) - force per unit area,P,strain,overwhelming force,pressure
-sensation,burdensomeness,oppressiveness,pressure,onerousness,stress,compulsion,constraint,muscle,lading
+664. 壓⼒, 压⼒ (yālì) - force per unit area,P,strain,overwhelming force,pressure sensation,burdensomeness,oppressiveness,pressure,onerousness,stress,compulsion,constraint,muscle,lading
 665. 快樂, 快乐 (kuàilè) - happy,cheerful
 666. 快樂, 快乐 (kuàilè) - happy,cheerful
 667. 喝, 喝 (hē) - drink
 668. 敢, 敢 (gǎn) - dare,make bold,have courage to,be sure,have confidence to,venture,have the confidence to,be certain
-669. 院, 院 (yuàn) - public facility,college,courtyard,designation for certain government ofices and pub,hospital,clinic,branch of
-government,university,institutes,compound,abbey,academy,institute,yard,educational institution,faculty
+669. 院, 院 (yuàn) - public facility,college,courtyard,designation for certain government ofices and pub,hospital,clinic,branch of government,university
 670. 也許, 也许 (yěxǔ) - possibly,peradventure,conceivably,assumedly,mayhap,doubtless,ablings,perhaps,perchance,potentially,probably,maybe,presumably,ablins,just
 671. ⼈們, ⼈们 (rénmen) - workforce,hands,work force,folk,people,they,the people,men,manpower,common people
 672. 談, 谈 (tán) - talk,chat
@@ -752,16 +681,13 @@ government,university,institutes,compound,abbey,academy,institute,yard,education
 681. 積極, 积极 (jījí) - positive,active,energetic,vigorous
 682. 知識, 知识 (zhīshì) - lear,knowhow,understanding,ken,instruction,science,sophistication,consciousness,light,awareness,cognizance,knowledge,lore,mastery,know,cognition,acquaintanceship,mind,intellect,knowingness,equipment
 683. 作為, 作为 (zuòwéi) - regard as,look on as,take for
-684. 機構, 机构 (jīgòu) - internal structure of an
-organization,motion,gadget,instrumentality,institute,organ,mechanism,gear,representation,mechanics,machinery,apparatus,establishment,institution,means,organization,agency,setup,delegacy,outfit
+684. 機構, 机构 (jīgòu) - internal structure of an organization,motion,gadget,instrumentality,institute
 685. ⽽是, ⽽是 (érshì) - conj.: if not A, then B
 686. ⿎勵, ⿎励 (gǔlì) - encourage,urge
 687. ⿎勵, ⿎励 (gǔlì) - encourage,urge
 688. ⻆⾊, ⻆⾊ (jiǎosè) - theatrical role,character,persona,part,function,office,fictional character,actor,fictitious character,personage,role
-689. 狀況, 状况 (zhuàngkuàng) - repair,background,picture,state (of affairs),state of
-affairs,status,gear,scene,setting,scope,condition,state,circumstance,trimness,context,showing,trim,factor ,condition/state (of afairs),situation,shoes,consideration,place
-690. 專家, 专家 (zhuānjiā) - guru,pundit,adept,expertise,professional
-person,specializer,specialist,proficient,whiz,oner,expert,swami,savant,dab,professional,authority,stunner,technician
+689. 狀況, 状况 (zhuàngkuàng) - repair,background,picture,state (of affairs),state of affairs,status,gear,scene,setting,scope,condition,state,circumstance,trimness,context,showing,trim,factor ,condition/state (of afairs),situation,shoes,consideration,place
+690. 專家, 专家 (zhuānjiā) - guru,pundit,adept,expertise,professional person,specializer,specialist,proficient,whiz,oner,expert,swami,savant,dab,professional,authority,stunner,technician
 691. 據, 据 (jù) - according to,on the grounds of
 692. 清楚, 清楚 (qīngchǔ) - clear
 693. 不僅, 不仅 (bùjǐn) - conj.: not only
@@ -787,17 +713,14 @@ person,specializer,specialist,proficient,whiz,oner,expert,swami,savant,dab,profe
 713. 重視, 重视 (zhòngshì) - attach importance to,take sth. seriously,value
 714. 不少, 不少 (bùshǎo) - det.: a lot of
 715. 歡迎, 欢迎 (huānyíng) - invite,greet,take in,receive,welcome,gratulate,embrace,salute
-716. ⼩孩, ⼩孩 (xiǎohái) - kid,tyke,encumbrance,kinchin,youngster,wean,small
-fry,chick,juvenile,imp,urchin,minor,nestling,prattler,tike,kiddie,tot,fry,bud,mammet,pinafore,nipper,enfant,mite,bairn,chicken,shaver,child,chit,kiddy,infant,tiddler,sprig
+716. ⼩孩, ⼩孩 (xiǎohái) - kid,tyke,encumbrance,kinchin,youngster,wean,small fry,chick,juvenile,imp,urchin,minor,nestling,prattler,tike,kiddie,tot,fry,bud,mammet,pinafore,nipper,enfant,mite,bairn,chicken,shaver,child,chit,kiddy,infant,tiddler,sprig
 717. ⼩時, ⼩时 (xiǎoshí) - hour
 718. 中國⼈, 中国⼈ (zhōngguórén) - Chink,Chinee,Chinese,Chow,chow,John,a Chinese
-719. 顯⽰, 显⽰ (xiǎnshì) -
-demonstrate,argue,exhibit,prove,display,show,illustrate,manifest,demonstration,announce,stamp,unroll,witness,write,give,evince,dangle,betray,bespeak,say,profess,develop,indicate,signal,flaunt,read,register,manifestation,speak,reveal,evidence,tell,shew,proclaim,discover,stage,bear,establish,record,prognosticate,betoken,note,signalize
+719. 顯⽰, 显⽰ (xiǎnshì) - demonstrate,argue,exhibit,prove,display,show,illustrate,manifest,demonstration,announce,stamp,unroll
 720. 中共, 中共 (zhōnggòng) - Chinese Communist Party
 721. 出, 出 (chū) - produce,turn out,arise,happen
 722. 男⼈, 男⼈ (nánrén) - male,man,chap,mankind,buck,bastard,gentleman,jack,gent,men,blighter ,cuss,hombre,lad,adult male,groom,husband,bimbo,dog,fellow,mon,menfolk,fella
-723. 避免, 避免 (bìmiǎn) - forbear,preclude,refrain_from,forebear,escape,help,elude,leapfrog,refrain from,stave_off,evite,shun,obviate,avoid,evade,waive,help
-oneself,ward_off,ward,miss,avert,ward of,balk,refrain
+723. 避免, 避免 (bìmiǎn) - forbear,preclude,refrain_from,forebear,escape,help,elude,leapfrog,refrain from,stave_off,evite,shun,obviate,avoid,evade,waive,help oneself,ward_off,ward,miss,avert,ward of,balk,refrain
 724. 屬於, 属于 (shǔyū) - fall under,be part of,pertain,appertain,belong,relegate,fall into,belong_to,fall_under,reside,belong to,attach
 725. 實施, 实施 (shíshī) - put into effect,implement
 726. 實施, 实施 (shíshī) - put into effect,implement
@@ -840,8 +763,7 @@ oneself,ward_off,ward,miss,avert,ward of,balk,refrain
 763. 認識, 认识 (rènshì) - know,recognize
 764. 認識, 认识 (rènshì) - know,recognize
 765. ⽅向, ⽅向 (fāngxiàng) - path,set,directional,aspect,tenor,course,lay,exposure,way,range,aim,trend,direction,bearing,orientation,hand,tack,way of life,quarter ,channel,line,heading
-766. 責任, 责任 (zérèn) -
-need,care,encumbrance,buck,accountability,blame,obligation,turn,load,responsibleness,incumbrance,responsibility,onus,commission,burden,commitment,loading,trust,pigeon,charge,business,fault,place,liability,duty,guardianship
+766. 責任, 责任 (zérèn) - need,care,encumbrance,buck,accountability,blame,obligation,turn,load,responsibleness,incumbrance,responsibility
 767. 說明, 说明 (shuōmíng) - explain,illustrate,show
 768. 說明, 说明 (shuōmíng) - explain,illustrate,show
 769. ⼯業, ⼯业 (gōngyè) - industrial,industry
@@ -867,14 +789,11 @@ need,care,encumbrance,buck,accountability,blame,obligation,turn,load,responsible
 789. 仍然, 仍然 (réngrán) - still,yet
 790. 感到, 感到 (gǎndào) - feel,sense
 791. 開放, 开放 (kāifàng) - open to the world,open to traffic or public use
-792. 領域, 领域 (lǐngyū) - demesne,line of business,field of operation,country,background,terrain,realm,part,arena,sphere of
-influence,setting,territory,precinct,radius,scope,domain,sphere,frontier,orbit,preserve,area,world,kingdom,ambit,signory,province,region,field,universe,hemisphere
+792. 領域, 领域 (lǐngyū) - demesne,line of business,field of operation,country,background,terrain,realm,part,arena,sphere of influence,setting,territory,precinct,radius,scope,domain,sphere
 793. 有效, 有效 (yǒuxiào) - run,stand,valid,efective,efficacious,avail,make,hold
 794. ⼥, ⼥ (nǔ) - girl,female,woman,neodymium,hen,daughter,beaver,creature
 795. 要, 要 (yào) - want/wish (to),ask (for)
-796. 從事, 从事 (cóngshì) - engross,have,join,treat,plow,handle,follow,embark,undertake,attend_to,attack,occupy,absorb,go_into,work,engage,prosecute,go_about,go in
-for,pursue,be,meddle,embark_on,perform,enter,cover,deal,address,be engaged in,deal with,place,wage
-797. 發揮, 发挥 (fāhuī) - bring into play,give free rein to,develop (idea/etc.),elaborate
+796. 從事, 从事 (cóngshì) - engross,have,join,treat,plow,handle,follow,embark,undertake,attend_to,attack,occupy,absorb,go_into,work,engage,prosecute,go_about,go in for,pursue,be,meddle,embark_on,perform,enter,cover,deal,address,be engaged in,deal with,place,wage,give free 
 798. 發揮, 发挥 (fāhuī) - bring into play,give free rein to,develop (idea/etc.),elaborate
 799. ⼈才, ⼈才 (réncái) - talent,capable person,a talented person,qualified personnel,a person of ability
 800. 反⽽, 反⽽ (fǎnér) - conj.: on the contrary, instead
@@ -887,30 +806,22 @@ for,pursue,be,meddle,embark_on,perform,enter,cover,deal,address,be engaged in,de
 807. 代, 代 (dài) - period,generation
 808. ⾃然, ⾃然 (zìrán) - naturally,of course,in ordinary course of events
 809. 社區, 社区 (shèqū) - community
-810. ⼒量, ⼒量 (lìliàng) - fibre,strength,potency,ability,guts,kick,cogency,point,dint,energy,mightiness,physical
-strength,demon,force,punch,whiz,tooth,might,forcefulness,exercise,fiber,powerfulness,lift,pith,leverage,agency,push,muscle,power
+810. ⼒量, ⼒量 (lìliàng) - fibre,strength,potency,ability,guts,kick,cogency,point,dint,energy,mightiness,physical strength,demon,force,punch
 811. 啊, 啊 (ā) - indicating elation,indicating doubt or questioning,indicating puzzled surprise,indicating agreement/approval
 812. 教育部, 教育部 (jiàoyūbù) - Education,Ministry of Education,Department of Education,Education Department
-813. 愈, 愈 (yū) - the more...
-814. 超過, 超过 (chāoguò) -
-overpass,overreach,outwalk,outstrip,overstep,outmarch,distance,pass,overstride,outpace,overtop,surpass,crown,exceed,overtake,preponderate,overrun,top,outrun,go_over ,transcend,outrange,transgress,go
-past,break,excess,overhaul,overshine
+813. 愈, 愈 (yū) - the more..., ever more critical
+814. 超過, 超过 (chāoguò) - overpass,overreach,outwalk,outstrip,overstep,outmarch
 815. 維持, 维持 (wéichí) - keep,preserve
 816. 維持, 维持 (wéichí) - keep,preserve
-817. 家⻑, 家⻓ (jiāzhǎng) - masterman,housemaster,graybeard,patriarch,parent of schoolchildren,patriarchal,goodman,patriarchate,paterfamilias,the head of a
-family,genearch,patriarchy,householder,head of household,the parent or guadian of a child
+817. 家⻑, 家⻓ (jiāzhǎng) - masterman,housemaster,graybeard,patriarch,parent of schoolchildren,patriarchal,goodman,patriarchate,paterfamilias,the head of a family,genearch,patriarchy,householder,head of household,the parent or guadian of a child
 818. 結合, 结合 (jiéhé) - combine,unite,integrate,link,be joined in wedlock
 819. 結合, 结合 (jiéhé) - combine,unite,integrate,link,be joined in wedlock
-820. 校⻑, 校⻓ (xiàozhǎng) - prexy,head,principal,headteacher,schoolmaster,master,warden,president,beak,rector,superintendent,director,head
-teacher,preceptor,headmaster,chancellor,school principal
-821. 通常, 通常 (tōngcháng) - normal,commonly,customarily,more often than not,general,usual,on average,as a rule,ordinarily,mostly,as usual,typically,generally,normally,by and
-large,unremarkably,on the average,usually
+820. 校⻑, 校⻓ (xiàozhǎng) - prexy,head,principal,headteacher,schoolmaster,master,warden,president,beak,rector,superintendent,director,head teacher,preceptor,headmaster,chancellor,school principal
+821. 通常, 通常 (tōngcháng) - normal,commonly,customarily,more often than not,general,usual,on average,as a rule,ordinarily,mostly,as usual,typically,generally,normally,by and large,unremarkably,on the average,usually
 822. 缺乏, 缺乏 (quēfá) - be short of, lack
 823. 缺乏, 缺乏 (quēfá) - be short of, lack
 824. 委員, 委员 (wěiyuán) - commissar,committee man,committee,committee member,commissioner,committeeman,delegate,board member,commissary
 825. 特⾊, 特⾊ (tèsè) - motif,a character,a characteristic,manner,trait,differentiation,flavor,colour,singularity,distinction,characteristic,hue,stripe,physiognomy,a distinguishing
-feature,idiom,specialty,character,difference,particular,distinguishing feature,distinguishing feature/quality,salience,coloration,distinguishing quality,specific,feature,peculiarity,artistic
-st
 826. 結果, 结果 (jiéguǒ) - finally
 827. 有時, 有时 (yǒushí) - now and then,at times,betweentimes,from time to time,sometimes
 828. 教師, 教师 (jiàoshī) - beak,don,school teacher,schoolman,teacher,schoolmaster,preceptor,professor,pedagogue,schoolteacher,coach,master,instructor,educator,preceptorship
@@ -939,11 +850,9 @@ st
 851. 形式, 形式 (xíngshì) - circumstance,form,kind,modality,reading,interpretation,variety,shape,embodiment,species,mode,version,sort
 852. 站, 站 (zhàn) - to stand
 853. 以為, 以为 (yǐwéi) - imagine,think/believe/consider erroneously,treat,deem,believe,suspect,suppose,consider erroneously,repute,animadvert,esteem,trow,speak
-up,feel,count,believe/consider erroneously,calculate,view as,guess,ween,look,expect,think erroneously,think,hold,opine,interpret,sound off,take_for,consider,take for
 854. 健康, 健康 (jiànkāng) - healthy,sound
 855. 健康, 健康 (jiànkāng) - healthy,sound
 856. 擔任, 担任 (dānrèn) - hold the post of,take charge of,assume,take_charge,fill,shoulder,adopt,skipper,assume the office of,assume office of,act_as,take,act as,play,undertake,take
-over,take on
 857. ⼈⼝, ⼈⼝ (rénkǒu) - population
 858. 規劃, 规划 (guīhuà) - program,plan
 859. 剛, 刚 (gāng) - exactly,only a short while ago,just now,barely,only just,just
@@ -971,19 +880,14 @@ over,take on
 881. 取得, 取得 (qǔdé) - gain,acquire,obtain
 882. 取得, 取得 (qǔdé) - gain,acquire,obtain
 883. 出來, 出来 (chūlái) - come forward,issue,come up,step up,step to the fore,out (toward one),come_out,pop out,come out,rise,come to the fore,step forward,emergence,come
-forth,emerge
 884. 加⼊, 加⼊ (jiārù) - join,accede to
 885. 台, 台 (tái) - short for Taiwan
 886. 安排, 安排 (ānpái) - arrange,plan,fix up,provide (meals/etc.)
 887. 安排, 安排 (ānpái) - arrange,plan,fix up,provide (meals/etc.)
 888. 兒童, ⼉童 (értóng) - kid,nipper,enfant,tyke,youngster,small fry,minor,shaver,nestling,tike,child,chit,fry,children,infant,tiddler,small-fry
 889. 國中, 国中 (guózhōng) - middle school,junior high school
-890. 範圍, 范围 (fànwéi) -
-demesne,latitude,shot,compass,extensity,panorama,parameter,boundary,arena,stretch,territory,radius,spectrum,scope,extension,sphere,orbit,circumscription,limits,purview,grasp,extent,region,space,limit,hemisphere,horizon,envelope,bounds,realm,terrain,tether ,sphere
-of influence,range,circuit,domain,precinct,reach,area,length,spread,bailiwick,ambit,con
+890. 範圍, 范围 (fànwéi) -demesne,latitude,shot,compass
 891. ⽼⼈, ⽼⼈ (lǎorén) - oldster,ancient,old woman,crock,one's aged parents or grandparents,old man/woman,one's aged parents/grandparents,Sir ,old person,gaffer,pop,one's aged
-parents,the aged/old,old_man,senior_citizen,oldie,greybeard,old man,graybeard,old,grandparents,the old,the aged,senior citizen,old_boy ,old boy,woman,old-timer,old man or
-woman,one's aged grandparents
 892. 雙⽅, 双⽅ (shuāngfāng) - both,the two parties,two parties,both sides
 893. 牠, 牠 (tā) - it (animal)
 894. 北京, 北京 (běijīng) - capital of Red China,Beijing,Peking,Beijing (Peking),Peiping
@@ -992,7 +896,6 @@ woman,one's aged grandparents
 897. 結束, 结束 (jiéshù) - end,close,conclude
 898. 教, 教 (jiāo) - teach
 899. 程式, 程式 (chéngshì) - formula,instruction,computer
-programme,pattern,form,modality,subprogram,routine,programme,course,function,subroutine,procedure,mode,order,sequence,computer program,program
 900. 婦⼥, 妇⼥ (fùnǔ) - feme,womankind,female,femininity,cummer,woman,femme,quean,bevy,matron,toots,womanhood,feminine,womenfolk,women
 901. 找到, 找到 (zhǎodào) - light upon,find,discover,run_down,founded,regain,strike,come upon,come across,run down,trace,turn_up,happen upon,get,chance on,chance upon
 902. 彼此, 彼此 (bǐcǐ) - each other,one another,I/me too
@@ -1007,18 +910,14 @@ programme,pattern,form,modality,subprogram,routine,programme,course,function,sub
 911. 期間, 期间 (qíjiān) - length,period,time period,amount of time,duration,course,interim,period of time,time,standing,chapter ,tract,space,term,streak,eflux
 912. ⾮, ⾮ (fēi) - not
 913. ⼩姐, ⼩姐 (xiǎojiě) - Signorina,Senorita,senorita,signorina,young_lady,damosel,Dona,mum,young
-lady,damoiselle,missy,tootsy,demoiselle,damsel,Miss,Fraulein,miss,sheila,sister,toots,senhorita,damozel,Ladyship,ladyship,Mademoiselle,mademoiselle
 914. 整體, 整体 (zhěngtǐ) - integrity,allness,entirety,integer,integral,monolith,entireness,ensemble,wholeness,entire,tout ensemble,whole,totality,unity
 915. 採⽤, 采⽤ (cǎiyòng) - invoke,admit,assume,adoptive,use,adopt,select for use,embrace,accept,employment,take,introduce,take up,take_on,take over ,take
-on,borrow,employ,adoption
 916. 根本, 根本 (gēnběn) - at all,utterly
 917. 叫, 叫 (jiào) - to be called
 918. 歐洲, 欧洲 (ōuzhōu) - Europe
 919. 正在, 正在 (zhèngzài) - course of,be,be in process
 920. 加以, 加以 (jiāyǐ) - handle; treat (used before polysyllabic verbs or verbal nouns)
 921. 充滿, 充满 (chōngmǎn) - swarm,be brimming,inhabit,be brimming with,teem,crawl,fill,lard,pullulate with,brim,be permeated with,bathe,be filled with,permeated with,abound
-in,implement,exuberate,fill up,flow,abound,burst,perfuse,foam,bristle,crackle,inform,pervade,be imbued with,simmer,glut,teem in,permeate,congest,be full
-of,reek,charge,sufuse,pullulate,overfill,swell
 922. 系列, 系列 (xìliè) - succession,set,spectrum,course,train,series
 923. 隨著, 随着 (suízhe) - along with,in the wake of,in pace with
 924. 早, 早 (zǎo) - early,long ago,in advance,beforehand,prematurely
@@ -1041,17 +940,13 @@ of,reek,charge,sufuse,pullulate,overfill,swell
 941. ⺠族, ⺠族 (mínzú) - tribe,citizenry,ethnos,ethnic minority/group,race,nationality,group,Volk,nation,folk,people,ethnic group,ethnographer,family,ethnic minority
 942. 為主, 为主 (wéizhǔ) - give first place to
 943. ⼤眾, ⼤众 (dàzhòng) - the broad masses,roughscuff,the public,herd,concourse,commonality,riffraff,masses,commonness,the
-masses,throng,multitude,commonage,commonalty,plebeian,plebs,horde,the people/masses,community,the people,million,mass,public
 944. 到底, 到底 (dàodǐ) - to the end,at last,after all
 945. 願, 愿 (yuàn) - will,wish,may,desire
 946. 度, 度 (dù) - m.[activity]
 947. ⼤概, ⼤概 (dàgài) - chiefly,if not,perchance,approximately,believably,maybe,presumably,plausibly,almost,conceivably,most
-likely,assumedly,ablings,likely,perhaps,probably,supposedly,ablins,credibly,assumably,belike
 948. 對⽅, 对⽅ (duìfāng) - other party,the other party,fellow,party,other side,adversary,other side/party
 949. 官員, 官员 (guānyuán) - beg,official,mandarinate,administrative official,office-bearer,officer,bureaucrat,placeman,federal agent,government
-officials,agent,officialism,functionary,director,officeholder,officialdom,myrmidon
 950. 發表, 发表 (fābiǎo) -
-voice,enounce,enunciate,publish,free,sound,announce,pronounce,deliver ,circulation,put_out,release,issue,vend,circularize,give,give_out,denote,present,circulate,publicize,blazon,promulgate,mouth
 951. 進⼀步, 进⼀步 (jìnyībù) - go step further
 952. ⾃由, ⾃由 (zìyóu) - free,unrestrained
 953. 正確, 正确 (zhèngquè) - correct,true,exact,proper,right
@@ -1073,8 +968,7 @@ voice,enounce,enunciate,publish,free,sound,announce,pronounce,deliver ,circulati
 969. ⾼興, ⾼兴 (gāoxìng) - glad, happy, cheerful, merry, pleased
 970. 哪, 哪 (nǎ) - det.: which
 971. 樹, 树 (shù) - wood,Ruptiliocarpon caracolito,tree,arbor,Surname,caracolito
-972. 適合, 适合 (shìhé) -
-qualify,conform,fit,go,befit,quadrate,will,accord,tailor,beseem,serve,comport,gee,answer,become,fit_in,service,pertain,like,accommodate,agree,belong,characterize,make,suit,match
+972. 適合, 适合 (shìhé) - qualify,conform,fit,go,befit,quadrate,will,accord,tailor,beseem,serve,comport,gee,answer,become,fit_in
 973. 茶, 茶 (chá) - tea
 974. 別, 别 (bié) - don't
 975. 國外, 国外 (guówài) - overseas
@@ -1098,12 +992,8 @@ qualify,conform,fit,go,befit,quadrate,will,accord,tailor,beseem,serve,comport,ge
 993. 有, 有 (yǒu) - there is/are
 994. 般, 般 (bān) - way,kind,variety,sort
 995. 永遠, 永远 (yǒngyuǎn) - e'er,always,for_good,evermore,ever,forever
-996. 感情, 感情 (gǎnqíng) -
-warmheartedness,reticence,sensation,affection,susceptibility,feeling,feelings,heart,afective,withers,expression,tenderness,emotion,sentiment,fondness,soul,af fectionateness,soulfulness,passion
+996. 感情, 感情 (gǎnqíng) - warmheartedness,reticence,sensation,affection,susceptibility,feeling,feelings,heart,afective,withers,expression,tenderness,emotion,sentiment,fondness,soul,af fectionateness,soulfulness,passion
 997. 兒⼦, ⼉⼦ (érzi) - viscount,man-child,boy,male offspring,son
 998. 這樣⼦, 这样⼦ (zhèyàngzi) - so,such,like this,this way
 999. 起, 起 (qǐ) - [aspect]
 1000. 全部, 全部 (quánbù) - lot,aggregate,all,gross,entirety,allness,shebang,caboodle,complete,bunch,sum,total,gamut,entire,det.: all,totality,whole
-Retrieved from "https://en.wiktionary.org/w/index.php?title=Appendix:Mandarin_Frequency_lists/1-1000&oldid=34545141"
-This page was last edited on 11 October 2015, at 12:52.
-Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
